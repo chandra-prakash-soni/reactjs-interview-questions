@@ -13,6 +13,12 @@ From basic to advanced: test how well you know ReactJS, refresh your knowledge, 
  
 ReactJS, also known as React, is a popular JavaScript library for building user interfaces. It is also referred to as a front-end JavaScript library. It was developed by Facebook and is widely used for creating dynamic and interactive web applications. In this article, we’ll explore the key concepts of React.
 
+
+###### 2. What is refs?
+
+In React, refs (short for references) provide a way to access and interact with DOM elements or React components directly. Normally, React handles updates and renders automatically, but in some cases, like managing focus, text selection, animations, or integrating third-party libraries, you may need direct access to a DOM element. Refs allow you to do that without disrupting React's declarative approach.
+
+
 **How to Use Refs:**
 1. **Create a Ref:** You can create a ref using `React.createRef()` or with a callback function.
 2. **Attach the Ref:** Attach the ref to a DOM element or React component via the `ref` attribute.
