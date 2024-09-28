@@ -46,5 +46,19 @@ const MyComponent = () => {
 export default MyComponent;
 
 
+###### 3. What is Web API
+ 
+<p>The HTML Web API refers to built-in features that allow developers to use JavaScript to interact with web pages and browsers, making websites more dynamic and interactive. These APIs let you do things like:</p>
+<ul>
+<li>Change the content of a webpage.</li>
+<li>Get data from the internet.</li>
+<li>Find a user’s location (with permission).</li>
+<li>Draw graphics on the screen.</li>
+<li>Store data in the browser.</li>
+<li>Send notifications.</li>
+</ul>
+
+
+
 
 
